@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=1000&color=030176&background=3316FF00&center=true&random=false&width=900&lines=Hi!%F0%9F%91%8B+I'm+Alina+Naz;Currently+working+as+AI%2FML+Engineer++at+CDAC+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=1000&color=030176&background=3316FF00&center=true&random=false&width=900&lines=Hi!%F0%9F%91%8B+I'm+Alina+Naz;Currently+working+as+AI%2FML%2FGenAI+Engineer++at+CDAC+India)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
