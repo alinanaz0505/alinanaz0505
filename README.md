@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- Hi!👋 I'm Alina, an AI/ML Engineer with Mtech in Artificial Intelligence from NITJ🔭. 
+- Hi!👋 I'm Alina, AI Engineer @C-DAC India | M.TECH🧑‍🎓 | ARTIFICIAL INTELLIGENCE🤖 |NATIONAL INSTITUTE OF TECHNOLOGY🎓(NITJ Jalandhar)🔭. 
 - I’m currently learning 🌱 about NLP and Generative AI at CDAC-India
 - Machine Learning has been at the core of my problem solving path⚡.
 - 🤔 I’m looking for collaborations in my ✨endeavours✨.
