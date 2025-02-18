@@ -10,6 +10,41 @@
 </div>
 
 
+<h2 align="left">
+</h2> 
+
+  <a href="mailto:nazalina930@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:owaiskhan9654@gmail.com"/>
+  </a>
+  
+  <a href="https://github.com/AlinaNaz05" style="color: inherit; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/AlinaNaz05" alt="GitHub badge" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/AlinaNaz05/" style="color: inherit; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlinaNaz05/" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://www.hackerearth.com/@AlinaNaz05" style="color: inherit; text-decoration: none;">
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue/" alt="hacker Earth" /> 
+  </a>
+  
+  <a href="https://www.kaggle.com/owaiskhan9654" style="color: inherit; text-decoration: none;">
+ <img src="https://img.shields.io/badge/Kaggle%20Master-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /> 
+  </a>
+    <a href="https://owaiskhan9654.github.io/" style="color: inherit; text-decoration: none;">
+ <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Me+Website" /> 
+  </a>
+  
+  <a href="https://stackoverflow.com/users/13648763/owais" style="color: inherit; text-decoration: none;">
+ <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="Stack Overflow" /> 
+  </a>
+ 
+ <img src="https://komarev.com/ghpvc/?username=owaiskhan9654&color=18A558&label=Profile+views" alt="Profile Views" /> 
+
+  
+</p>
+
 
 # Analytics ⚙️
 
