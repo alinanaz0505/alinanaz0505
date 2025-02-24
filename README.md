@@ -51,18 +51,18 @@
  Languages and Tools:
 
  
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/Machine%20Learning-EE4C2C?style=for-the-badge&logo=MachineLearning&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=DeepLearning&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=NLP&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
-[![](https://img.shields.io/badge/Large%20Language%20Model-3776AB?style=for-the-badge&logo=LargeLanguageModel&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/Generative%20AI-76B900?style=for-the-badge&logo=GenerativeAI&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/Statical%20Modeling-FFBE00?style=for-the-badge&logo=StaticalModeling&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/Machine%20Learning-EE4C2C?style=for-the-badge&logo=MachineLearning&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=DeepLearning&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=NLP&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/Large%20Language%20Model-3776AB?style=for-the-badge&logo=LargeLanguageModel&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/Generative%20AI-76B900?style=for-the-badge&logo=GenerativeAI&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/Statical%20Modeling-FFBE00?style=for-the-badge&logo=StaticalModeling&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/alinanaz05/)&emsp;
 [![](https://img.shields.io/badge/Docker-f02913?style=for-the-badge&logo=Docker&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
 [![](https://img.shields.io/badge/On--Prem-792DE4?style=for-the-badge&logo=On-Prem&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/Azure-f02913?style=for-the-badge&logo=Azure&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/MLOps-f02913?style=for-the-badge&logo=MLOps&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
-[![](https://img.shields.io/badge/Monitoring%20Tools%20and%20Alerts-EE4C2C?style=for-the-badge&logo=MonitoringTools&logoColor=white)](https://www.linkedin.com/in/AlinaNaz05/) &emsp;
+[![](https://img.shields.io/badge/Azure-f02913?style=for-the-badge&logo=Azure&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/MLOps-f02913?style=for-the-badge&logo=MLOps&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
+[![](https://img.shields.io/badge/Monitoring%20Tools%20and%20Alerts-EE4C2C?style=for-the-badge&logo=MonitoringTools&logoColor=white)](https://www.linkedin.com/in/alinanaz05/) &emsp;
 <a href="https://www.linkedin.com/in/AlinaNaz05"/><img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" height=30 width=55></img></a>
