@@ -43,7 +43,7 @@
 # Analytics ⚙️
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlinaNaz05&show_icons=true&count_private=true&hide=prs,issues,stars)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alinanaz0505?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
 
  </p> <h3 align="left">
